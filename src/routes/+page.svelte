@@ -9,7 +9,7 @@
     import cleanshot from "../assets/cleanshot.png";
     import chevron from "../assets/chevron.png";
     import home from "../assets/home.png";
-    import story from "../assets/story.png";
+    import Story from "../assets/Story.png";
     import learn from "../assets/learn.png";
     import post from "../assets/post.png";
     import betterup from "../assets/betterup.jpg";
@@ -41,7 +41,7 @@
             </div>
             <div class="flex mx-4">
                 <div class="p-1">
-                    <img class="nav-icons" alt="The project logo" src={story} />
+                    <img class="nav-icons" alt="The project logo" src={Story} />
                 </div>
                 <div class="text-sm font-normal nav-icon-text p-1">Explore</div>
             </div>
